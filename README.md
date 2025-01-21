@@ -132,4 +132,4 @@ Here are some ideas to get you started:Here are some ideas to get you started:
     alt="My Instagram">
 </a>
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+<a href="https://github.com/jwon-self"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imysh578&layout=compact&theme=nord&hide_border=true" /></a>
