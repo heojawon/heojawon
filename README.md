@@ -124,8 +124,9 @@ Here are some ideas to get you started:Here are some ideas to get you started:
 -   🧑 다른 분들과 협업을 좋아합니다.
 -   🤔 다른 분들과 함께 코딩하고 싶어요
 
-### 시험이 제일 싫습니다
+### 시험이 제일 싫어
 
+<h2 align='left'>Connect With me:</h2>
 <a href="https://www.instagram.com/heojewon0/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" 
     alt="My Instagram">
