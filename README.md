@@ -6,11 +6,13 @@
             height="20"
         />
     </a>
-</p>
+    </p>
 
 <h2 align="center">📚 My Stacks</h2>
 <p align="center">
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" href="https://ecma-international.org/publications-and-standards/standards/ecma-262/">
+<a href="https://ecma-international.org/publications-and-standards/standards/ecma-262/">
+    <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
+</a>
 
 <!--
 **jwon-self/jwon-self** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.**jwon-self/jwon-self** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
