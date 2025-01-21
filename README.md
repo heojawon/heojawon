@@ -131,3 +131,5 @@ Here are some ideas to get you started:Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" 
     alt="My Instagram">
 </a>
+<br>
+<a href="https://github.com/jwon-self"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imysh578&layout=compact&theme=nord&hide_border=true" /></a>
