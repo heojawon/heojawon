@@ -119,12 +119,7 @@
 Here are some ideas to get you started:Here are some ideas to get you started:
 -->
 
--   🔭 중학생입니다.
--   🌱 현재 **머신러닝**을 배우고 있어요
--   🧑 다른 분들과 협업을 좋아합니다.
--   🤔 다른 분들과 함께 코딩하고 싶어요
-
-### 시험이 제일 싫어
+-   🌱 **머신러닝**을 배우고 있어요
 
 <h2 align='left'>Connect With me:</h2>
 <a href="https://www.instagram.com/heojewon0/" target="_blank">
