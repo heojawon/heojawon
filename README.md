@@ -107,6 +107,6 @@
 <h2 align="center">🚀 Ongoing Projects</h2>
 <ul>
     <li>
-        <a href="https://github.com/" target="_blank">No Ongoing Projects
+        No Ongoing Projects
     </li>
 </ul>
