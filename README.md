@@ -107,6 +107,6 @@
 <h2 align="center">🚀 Ongoing Projects</h2>
 <ul>
     <li>
-        No Ongoing Projects
+        No
     </li>
 </ul>
