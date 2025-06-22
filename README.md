@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋</h1>
 
+<h2 align="center">I'm middle school student in S. Korea</h2>
+
 <h2 align="center">📝 My Stacks</h2>
 <p align="center">
 <a href="https://ecma-international.org/publications-and-standards/standards/ecma-262/" target="_blank">
