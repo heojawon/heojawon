@@ -104,6 +104,12 @@
     alt="Electron.js">
 </a>
 
+<a href="https://keras.io/" target="_blank">
+    <img src="https://img.shields.io/badge/keras-D00000?style=for-the-badge&logo=keras&logoColor=white" 
+    alt="Python">
+</a>
+
+
 </p>
 
 <h2 align="center">🚀 Ongoing Projects</h2>
